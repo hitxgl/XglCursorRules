@@ -1,0 +1,11 @@
+---
+description: Heartbeat rule
+alwaysApply: true
+---
+
+Every response must begin with the exact text below:
+
+我说白了，霖哥，
+
+Do not omit or paraphrase it.
+Continue the rest of the response naturally.

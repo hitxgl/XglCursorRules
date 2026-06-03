@@ -1,0 +1,2 @@
+# XglCursorRules
+My cursor rules
